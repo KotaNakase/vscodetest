@@ -1,1 +1,2 @@
 GUI操作でGitを使用する
+pull requestsテスト
